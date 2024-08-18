@@ -1,6 +1,44 @@
+body {
+    background-color: #CDEBFD;
+    background-image: linear-gradient(#CDEBFD);
+    background-image: url("./images/bg.jpg");
+}
 img {
     border-radius: 100px;
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
+footer {
+    text-align: center;
+    padding: 5px;
+    padding-top: 30px;
+    color: darkblue;
+  }
+h1 {
+    text-align: center;
+    padding: 20px;
+    color: black;
+}
+h2 {
+    padding: 15px;
+    color: black;
+}
+h3 {
+    color: black;
+}
+p {
+    color: black;
+}
+li {
+    color: black;
+}
+div {
+    width: auto;
+    height: auto;
+    padding: 1px;
+    justify-content: center;
+    
+}
+
+

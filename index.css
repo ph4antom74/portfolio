@@ -33,12 +33,20 @@ p {
 li {
     color: black;
 }
-div {
+div.left {
     width: auto;
     height: auto;
     padding: 1px;
     justify-content: center;
+    float: left;
     
+}
+div.right{
+    width: auto;
+    height: auto;
+    padding: 1px;
+    margin-left: 50%;
+
 }
 
 
